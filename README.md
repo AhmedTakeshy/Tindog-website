@@ -1,4 +1,4 @@
-<h1><b>Tindog</b></h1>
+<h1><strong>Tindog</strong></h1>
 <br>
 <h2>Overview</h2>
 <br>
